@@ -1,6 +1,6 @@
 # Survey Analysis (about Syrian Immigrants on Turkey)
 
-[Paper](https://drive.google.com/drive/u/2/folders/1U3qQrvmQHAbXt7QAbwaRYbl7C7yC1Sbz)
+[Paper](https://drive.google.com/file/d/1aIWxMEg2l_-Oc3kR8CQtcmt5Gw1mY9s_/view?usp=sharing)
 
 ## Introduction
 
