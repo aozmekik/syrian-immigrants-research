@@ -1,5 +1,7 @@
 # Survey Analysis (about Syrian Immigrants on Turkey)
 
+[Paper](https://drive.google.com/drive/u/2/folders/1U3qQrvmQHAbXt7QAbwaRYbl7C7yC1Sbz)
+
 ## Introduction
 
 This documentation details a thorough research study conducted to understand various aspects of life changes over time for a specific group of Syrian individuals. The study encompasses a wide range of topics including social pressures, relationships, access to services, employment conditions, educational opportunities, healthcare, housing, social services, discrimination, and future expectations.
